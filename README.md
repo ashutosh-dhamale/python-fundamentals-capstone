@@ -13,6 +13,7 @@ Applies conditional business rules:
 Seniority-level demotion for failed projects, promotion by age threshold
 Aggregates total project cost per employee via groupby
 Filters records using string pattern matching
+
 Key result
 
 Total project cost per employee, aggregated across 14 project records for 5 employees, ranged from ₹26.8L to ₹95L — validated against source records after all transformations.
